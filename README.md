@@ -58,6 +58,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 
 ## Remote MCP Server List
 
+- [BytesAgain](https://bytesagain.com/mcp) - Search 60,000+ AI agent skills via MCP SSE. 7 languages supported. Free, no auth. `https://bytesagain.com/api/mcp/sse`
 | Name | Category | URL | Authentication | Maintainer |
 |------|----------|-------------|----------------|------------|
 | Asana | Project Management | `https://mcp.asana.com/sse` | OAuth2.1 | [Asana](https://asana.com) |
